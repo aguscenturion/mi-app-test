@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#contenedor {
+    height: 100vh;
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
+header, main, footer {
+    padding: 20px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+header, footer {
+    background-color: #f4baba;
+}
+
+main {
+    background-color: #e2e1e1;
+}
