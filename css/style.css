@@ -12,13 +12,13 @@
 header, main, footer {
     padding: 10px;
     text-align: center;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
-header, footer {
+/* header, footer {
     background-color: #f4baba;
-}
+} */
 
-main {
+/* main {
     background-color: #e2e1e1;
-}
+} */
